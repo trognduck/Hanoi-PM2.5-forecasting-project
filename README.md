@@ -75,6 +75,6 @@ Hanoi-PM2.5-prediction-project/
 4. **Mô hình ML/DL:** Xây dựng mô hình với tập đặc trưng mở rộng (lags, phân rã MSTL) thông qua XGBoost và LSTM, điều chỉnh batch_size/epochs và cấu trúc lớp mạng cho phù hợp.
 5. **Đánh giá kết quả:** Dự báo trên tập kiểm thử (test set). Kết quả đánh giá bằng các metric (RMSE, MAE, MAPE). Các biểu đồ "Actual vs Predicted" được xuất trực tiếp trong các notebook để đánh giá độ khớp.
 
-## Tài liệu tham khảo trong repo
+## Báo cáo chi tiết trong repo
 - [`reports/Time_Series_PM25_Forecasting_Report.pdf`](reports/Time_Series_PM25_Forecasting_Report.pdf) — Báo cáo đồ án chi tiết về phương pháp và kết quả.
 - [`reports/Time_Series_PM25_Forecasting_Slide.pdf`](reports/Time_Series_PM25_Forecasting_Slide.pdf) — Slide thuyết trình đồ án cuối kỳ.
