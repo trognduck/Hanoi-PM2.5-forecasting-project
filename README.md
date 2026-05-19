@@ -1,4 +1,3 @@
-# BÁO CÁO CUỐI KÌ
 # DỰ BÁO NỒNG ĐỘ BỤI MỊN PM2.5 TẠI HÀ NỘI TRONG 3 THÁNG ĐẦU NĂM 2026
 **Môn học:** MAT3388 - PHÂN TÍCH CHUỖI THỜI GIAN
 
