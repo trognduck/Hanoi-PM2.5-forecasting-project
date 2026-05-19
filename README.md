@@ -34,10 +34,6 @@ Dự án phân tích và dự báo chuỗi thời gian nồng độ bụi mịn 
 git clone <repository-url>
 cd Hanoi-PM2.5-prediction-project
 
-# Tạo và kích hoạt môi trường ảo (ví dụ trên Windows)
-python -m venv .venv
-.venv\Scripts\activate
-
 # Cài đặt thư viện cần thiết
 pip install -r requirements.txt
 ```
