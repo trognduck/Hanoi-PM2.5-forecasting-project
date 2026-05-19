@@ -1,0 +1,26 @@
+# Hanoi PM2.5 Time Series Analysis - Dependencies
+# Python 3.8+ recommended
+
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning & Pipelines
+scikit-learn>=1.2.0
+
+# Time series & ARIMA / MSTL
+pmdarima>=2.0.0
+statsmodels>=0.14.0
+
+# Deep Learning (LSTM for Time Series)
+tensorflow>=2.12.0
+
+# Machine Learning (XGBoost)
+xgboost>=1.7.0
+
+# Jupyter Notebook Environment (for running EDA and forecasting notebooks)
+jupyter>=1.0.0
