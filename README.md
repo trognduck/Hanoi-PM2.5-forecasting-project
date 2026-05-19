@@ -1,7 +1,7 @@
 # DỰ BÁO NỒNG ĐỘ BỤI MỊN PM2.5 TẠI HÀ NỘI TRONG 3 THÁNG ĐẦU NĂM 2026
 **Môn học:** MAT3388 - PHÂN TÍCH CHUỖI THỜI GIAN
 
-Dự án phân tích và dự báo chuỗi thời gian nồng độ bụi mịn PM2.5 tại Hà Nội. Dự án thực hiện đánh giá trên ba độ phân giải thời gian khác nhau (theo giờ, 6 giờ, và theo ngày) bằng cách sử dụng và so sánh các mô hình thống kê truyền thống (ARIMA/SARIMA) cùng với mô hình mở rộng ARIMAX với các mô hình học máy/học sâu (XGBoost, LSTM), kết hợp kỹ thuật phân rã chuỗi thời gian MSTL.
+Dự án phân tích và dự báo chuỗi thời gian nồng độ bụi mịn PM2.5 tại Hà Nội. Dự án thực hiện đánh giá trên ba độ phân giải thời gian khác nhau (theo giờ, 6 giờ, và theo ngày) bằng cách sử dụng và so sánh các mô hình thống kê truyền thống (ARIMA/SARIMA) và so sánh với mô hình mở rộng ARIMAX cùng các mô hình học máy/học sâu (XGBoost, LSTM), kết hợp kỹ thuật phân rã chuỗi thời gian MSTL.
 
 ## Nội dung
 - [Tính năng chính](#tính-năng-chính)
